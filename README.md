@@ -4,6 +4,7 @@
 ## Que hace el codigo?
 
 Es un formulario para crear una cuenta ficticia de acceso a una página web:
+
 ![image](https://user-images.githubusercontent.com/102312295/214555093-2189ad64-1c77-4f44-98bb-c973d1d737db.png)
 
 Tiene las siguientes validaciones:
